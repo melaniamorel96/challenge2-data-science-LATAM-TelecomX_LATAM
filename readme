@@ -1,1 +1,43 @@
+Informe Ejecutivo – Proyecto TelecomX LATAM
 
+Objetivo del proyecto
+El propósito del análisis fue identificar los factores clave asociados al abandono de clientes (churn) en TelecomX, empresa de telecomunicaciones con operaciones en Latinoamérica. Con ello, se buscó generar insumos estratégicos para reducir la pérdida de clientes y diseñar campañas de retención más efectivas.
+
+Metodología aplicada
+Extracción de datos: Se trabajó con un dataset JSON de más de 7.200 clientes de TelecomX.
+
+Transformación: Se normalizaron y desanidaron las columnas relacionadas con datos de cliente, teléfono, internet y cuenta.
+
+Exploración: Se realizó un análisis descriptivo para entender distribución de servicios contratados, características demográficas y tasas de churn.
+
+Modelado predictivo: Se entrenaron modelos de Machine Learning para clasificar clientes con riesgo de abandono.
+
+Visualización: Se generaron gráficos que evidencian patrones y correlaciones entre churn y variables clave.
+
+Resultados principales
+La tasa de churn se encontró alrededor del 26-28%, lo que representa un nivel considerable de pérdida de clientes.
+
+Factores más relacionados con el abandono:
+
+Servicio de internet inestable o básico (clientes con fibra óptica tienden a permanecer más).
+
+Duración del contrato: clientes con contratos mensuales muestran una alta propensión a abandonar, frente a los de contratos anuales.
+
+Método de pago: quienes usan pagos electrónicos automáticos muestran menor churn que los que usan efectivo o cheques.
+
+Servicios adicionales (streaming, soporte técnico premium): se asocian a una mayor fidelidad.
+
+El modelo predictivo alcanzó una precisión adecuada (>75%) en la identificación de clientes con alto riesgo de churn, siendo útil para segmentar campañas de retención.
+
+Conclusiones y recomendaciones
+Fortalecer planes anuales y de fidelización, ofreciendo incentivos para migrar clientes de contratos mensuales a anuales.
+
+Mejorar la calidad del servicio de internet, especialmente en clientes con planes básicos, dado que este factor impacta directamente en el churn.
+
+Promover el uso de pagos electrónicos automáticos, por su asociación con mayor permanencia.
+
+Potenciar servicios de valor agregado (entretenimiento, soporte técnico) que aumentan el engagement del cliente.
+
+Utilizar el modelo predictivo como herramienta de negocio para identificar clientes en riesgo y diseñar campañas de retención personalizadas.
+
+✅ En conclusión, el proyecto permitió no solo entender los factores que explican el churn, sino también ofrecer acciones estratégicas concretas que TelecomX LATAM puede implementar para reducir la pérdida de clientes y aumentar la rentabilidad.
